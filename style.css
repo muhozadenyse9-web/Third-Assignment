@@ -2,11 +2,16 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     line-height: 1.6;
+    background-image: url(campus-bg.jpg);
+    background-size: cover;        
+    background-position: center;   
+    background-repeat: no-repeat;  
+    background-attachment: fixed;  
 }
 
 header {
-    background: #004080;
-    color: white;
+    background: whitesmoke;
+    color: darkblue;
     text-align: center;
     padding: 15px;
 }
